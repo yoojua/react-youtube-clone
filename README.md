@@ -1,18 +1,26 @@
-Hello, My Friends  
-Thank you for having interest in this repository ! 
+# 📺따라하며 배우는 노드, 리액트 시리즈 - 유튜브 사이트 만들기
 
-To use this application, 
+| 영역 | 기술 |
+|------|------------------------------|
+| Frontend | React |
+| Frontend Runtime | Node.js 14.x |
+| Package Manager | npm |
+| Version Control | Git, GitHub |
 
-1. make dev.js file inside config folder 
-2. put mongoDB info into dev.js file 
-3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
-4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
+## 🚀 실행 방법
+
+```bash
+# 패키지 설치
+npm install
+
+# 개발 서버 실행
+npm start
+```
+
+## 공부
+- Boiler-plate
 
 
-If you have problem, feel free to ask me ^^ 
-
-You can watch the tutorial for this app.
-
-https://www.youtube.com/channel/UCFyXA9x8lpL3EYWeYhj4C4Q?view_as=subscriber
-
-
+## 강의
+- 노드 리액트 기초 강의 (https://buly.kr/613GJXA)
+- 인프런 <따라하며 배우는 노드, 리액트 시리즈 - 유튜브 사이트 만들기> 
