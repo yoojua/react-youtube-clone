@@ -4,7 +4,7 @@
 |------|------------------------------|
 | Frontend | React |
 | Frontend Runtime | Node.js 14.21.3 |
-| Package Manager | npm |
+| Package Manager | npm 6.14.18 |
 | Version Control | Git, GitHub |
 
 ## 🚀 실행 방법
