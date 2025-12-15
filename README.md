@@ -3,7 +3,7 @@
 | 영역 | 기술 |
 |------|------------------------------|
 | Frontend | React |
-| Frontend Runtime | Node.js 14.x |
+| Frontend Runtime | Node.js 14.21.3 |
 | Package Manager | npm |
 | Version Control | Git, GitHub |
 
